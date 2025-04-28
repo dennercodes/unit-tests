@@ -1,0 +1,9 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Button > should render default button 1`] = `
+<button
+  class="bg-red-500"
+>
+  Default button
+</button>
+`;

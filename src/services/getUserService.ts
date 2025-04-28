@@ -20,6 +20,7 @@ export const getUserService = async (userId?: number): Promise<User> => {
   if (!data.id || !data.name || !data.email) {
     throw new Error('Invalid user data');
   }
+  // console.log(data2);
 
   return data;
 };
