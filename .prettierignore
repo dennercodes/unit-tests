@@ -1,0 +1,9 @@
+node_modules
+dist
+coverage
+build
+.git
+*.d.ts
+src/App.tsx
+src/main.tsx
+src/api/axios.ts 
